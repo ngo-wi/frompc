@@ -1,0 +1,49 @@
+body{
+	max-width: 600px;
+	margin: 0 auto;
+	font-family: monospace;
+	background-color: gray;
+	color: #f3f3f3
+
+
+}
+
+
+h1{
+		font-size: 24px
+	line-height: 60px;
+}
+
+a{
+	font-size: 15px;
+	margin: 0 10px 0 10px;
+	color: #bbb;
+	display: inline-block;
+
+}
+
+a:active{
+	color: white;
+
+a:hover{
+	color: #f3f3f3;
+	text-decoration: none;
+
+}
+
+
+}
+
+
+header{
+	//background-color: deepskyblue;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end ;
+}
+nav{
+	display: flex;
+	: flex-end;
+
+}
